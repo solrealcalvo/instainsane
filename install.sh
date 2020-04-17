@@ -1,4 +1,4 @@
-#!/bin/bash
+q#!/bin/bash
 #Author: github.com/thelinuxchoice
 #Instagram: @thelinuxchoice
 trap 'echo exiting cleanly...; exit 1;' SIGINT SIGTSTP
